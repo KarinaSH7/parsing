@@ -1,0 +1,502 @@
+[
+    {
+        "position": 1,
+        "artist": "ANNA ASTI",
+        "title": "Царица"
+    },
+    {
+        "position": 2,
+        "artist": "A.V.G",
+        "title": "Я плачу"
+    },
+    {
+        "position": 3,
+        "artist": "MACAN",
+        "title": "Май"
+    },
+    {
+        "position": 4,
+        "artist": "Винтаж",
+        "title": "Плохая Девочка"
+    },
+    {
+        "position": 5,
+        "artist": "MACAN",
+        "title": "ASPHALT 8"
+    },
+    {
+        "position": 6,
+        "artist": "5УТРА",
+        "title": "Давай сбежим (Искорки)"
+    },
+    {
+        "position": 7,
+        "artist": "АлСми",
+        "title": "Балет"
+    },
+    {
+        "position": 8,
+        "artist": "Моя Мишель",
+        "title": "Зима в сердце"
+    },
+    {
+        "position": 9,
+        "artist": "ANNA ASTI",
+        "title": "Дурак"
+    },
+    {
+        "position": 10,
+        "artist": "Кравц",
+        "title": "Где прошла ты"
+    },
+    {
+        "position": 11,
+        "artist": "NILETTO",
+        "title": "Не вспоминай"
+    },
+    {
+        "position": 12,
+        "artist": "ANNA ASTI",
+        "title": "По барам"
+    },
+    {
+        "position": 13,
+        "artist": "INSTASAMKA",
+        "title": "ЗА ДЕНЬГИ ДА"
+    },
+    {
+        "position": 14,
+        "artist": "Король и Шут",
+        "title": "Кукла колдуна"
+    },
+    {
+        "position": 15,
+        "artist": "АлСми",
+        "title": "Балет 2"
+    },
+    {
+        "position": 16,
+        "artist": "Jakone",
+        "title": "По весне"
+    },
+    {
+        "position": 17,
+        "artist": "NLO",
+        "title": "Танцы"
+    },
+    {
+        "position": 18,
+        "artist": "Король и Шут",
+        "title": "Лесник"
+    },
+    {
+        "position": 19,
+        "artist": "ANNA ASTI",
+        "title": "Космически"
+    },
+    {
+        "position": 20,
+        "artist": "Jakone",
+        "title": "Заводит"
+    },
+    {
+        "position": 21,
+        "artist": "Tkimali",
+        "title": "Север"
+    },
+    {
+        "position": 22,
+        "artist": "Лёша Свик",
+        "title": "Зеркала"
+    },
+    {
+        "position": 23,
+        "artist": "uniqe",
+        "title": "АФТЕРПАТИ"
+    },
+    {
+        "position": 24,
+        "artist": "Мари Краймбрери",
+        "title": "Случилась осень"
+    },
+    {
+        "position": 25,
+        "artist": "ANNA ASTI",
+        "title": "Верю в тебя"
+    },
+    {
+        "position": 26,
+        "artist": "A.V.G",
+        "title": "Она близко"
+    },
+    {
+        "position": 27,
+        "artist": "Big Baby Tape",
+        "title": "M11"
+    },
+    {
+        "position": 28,
+        "artist": "XOLIDAYBOY",
+        "title": "Океаны"
+    },
+    {
+        "position": 29,
+        "artist": "MACAN",
+        "title": "Самый пьяный округ в мире"
+    },
+    {
+        "position": 30,
+        "artist": "ANNA ASTI",
+        "title": "Повело"
+    },
+    {
+        "position": 31,
+        "artist": "XOLIDAYBOY",
+        "title": "Мания"
+    },
+    {
+        "position": 32,
+        "artist": "MACAN",
+        "title": "Поспешили"
+    },
+    {
+        "position": 33,
+        "artist": "Scally Milano",
+        "title": "Вампир"
+    },
+    {
+        "position": 34,
+        "artist": "Король и Шут",
+        "title": "Дурак и молния"
+    },
+    {
+        "position": 35,
+        "artist": "Karna.val",
+        "title": "ЧАСТУШКА"
+    },
+    {
+        "position": 36,
+        "artist": "ANNA ASTI",
+        "title": "Ночью на кухне"
+    },
+    {
+        "position": 37,
+        "artist": "Три дня дождя",
+        "title": "Отпускай"
+    },
+    {
+        "position": 38,
+        "artist": "By Индия",
+        "title": "money"
+    },
+    {
+        "position": 39,
+        "artist": "Гио Пика",
+        "title": "Листопадом"
+    },
+    {
+        "position": 40,
+        "artist": "Лизогуб",
+        "title": "ЭЩ ЭЩ"
+    },
+    {
+        "position": 41,
+        "artist": "Король и Шут",
+        "title": "Прыгну со скалы"
+    },
+    {
+        "position": 42,
+        "artist": "GAYAZOV$ BROTHER$",
+        "title": "МАЛИНОВАЯ ЛАДА"
+    },
+    {
+        "position": 43,
+        "artist": "Гио Пика",
+        "title": "Где ты?"
+    },
+    {
+        "position": 44,
+        "artist": "Artik & Asti",
+        "title": "Вселенная"
+    },
+    {
+        "position": 45,
+        "artist": "MORGENSHTERN",
+        "title": "Чёрный Русский"
+    },
+    {
+        "position": 46,
+        "artist": "Три дня дождя",
+        "title": "Вдох"
+    },
+    {
+        "position": 47,
+        "artist": "ХАБИБ",
+        "title": "Ягода малинка"
+    },
+    {
+        "position": 48,
+        "artist": "ANNA ASTI",
+        "title": "Бумеранг"
+    },
+    {
+        "position": 49,
+        "artist": "WHITE GALLOWS",
+        "title": "Сердце"
+    },
+    {
+        "position": 50,
+        "artist": "A.V.G",
+        "title": "Ножевой"
+    },
+    {
+        "position": 51,
+        "artist": "MACAN",
+        "title": "IVL"
+    },
+    {
+        "position": 52,
+        "artist": "Король и Шут",
+        "title": "Камнем по голове"
+    },
+    {
+        "position": 53,
+        "artist": "XOLIDAYBOY",
+        "title": "Моя хулиганка"
+    },
+    {
+        "position": 54,
+        "artist": "ANNA ASTI",
+        "title": "Пообещай"
+    },
+    {
+        "position": 55,
+        "artist": "Markul",
+        "title": "Стрелы"
+    },
+    {
+        "position": 56,
+        "artist": "Антон Токарев",
+        "title": "Седьмой лепесток"
+    },
+    {
+        "position": 57,
+        "artist": "NЮ",
+        "title": "Выручай меня"
+    },
+    {
+        "position": 58,
+        "artist": "Miyagi & Эндшпиль",
+        "title": "I Got Love"
+    },
+    {
+        "position": 59,
+        "artist": "MOT",
+        "title": "Случайности не случайны"
+    },
+    {
+        "position": 60,
+        "artist": "Баста",
+        "title": "Наше лето 2.0"
+    },
+    {
+        "position": 61,
+        "artist": "Король и Шут",
+        "title": "Танец злобного гения"
+    },
+    {
+        "position": 62,
+        "artist": "FEARSTbeats",
+        "title": "With You"
+    },
+    {
+        "position": 63,
+        "artist": "NEWLIGHTCHILD",
+        "title": "F*CK OFF"
+    },
+    {
+        "position": 64,
+        "artist": "Три дня дождя",
+        "title": "Прощание"
+    },
+    {
+        "position": 65,
+        "artist": "SCIRENA",
+        "title": "Деньги и Москва"
+    },
+    {
+        "position": 66,
+        "artist": "ANNA ASTI",
+        "title": "Ломка"
+    },
+    {
+        "position": 67,
+        "artist": "Zubi",
+        "title": "sugar"
+    },
+    {
+        "position": 68,
+        "artist": "Amirchik",
+        "title": "Эта любовь"
+    },
+    {
+        "position": 69,
+        "artist": "Ирина Кайратовна",
+        "title": "Чина"
+    },
+    {
+        "position": 70,
+        "artist": "Big Baby Tape",
+        "title": "Dying 2 Live"
+    },
+    {
+        "position": 71,
+        "artist": "ALBLAK 52",
+        "title": "+7(952)812"
+    },
+    {
+        "position": 72,
+        "artist": "XOLIDAYBOY",
+        "title": "Мотыльки"
+    },
+    {
+        "position": 73,
+        "artist": "Lover",
+        "title": "Танцуй"
+    },
+    {
+        "position": 74,
+        "artist": "ANNA ASTI",
+        "title": "Хобби"
+    },
+    {
+        "position": 75,
+        "artist": "Zivert",
+        "title": "карма-киллер"
+    },
+    {
+        "position": 76,
+        "artist": "Скриптонит",
+        "title": "Космос"
+    },
+    {
+        "position": 77,
+        "artist": "Slavik Pogosov",
+        "title": "Монро"
+    },
+    {
+        "position": 78,
+        "artist": "Heronwater",
+        "title": "Любить буду"
+    },
+    {
+        "position": 79,
+        "artist": "GONE.Fludd",
+        "title": "ХУДРИЧ"
+    },
+    {
+        "position": 80,
+        "artist": "Король и Шут",
+        "title": "Проклятый старый дом"
+    },
+    {
+        "position": 81,
+        "artist": "WHITE GALLOWS",
+        "title": "Снишься"
+    },
+    {
+        "position": 82,
+        "artist": "Andro",
+        "title": "Зари"
+    },
+    {
+        "position": 83,
+        "artist": "NILETTO",
+        "title": "Ты чё такая смелая?"
+    },
+    {
+        "position": 84,
+        "artist": "Люся Чеботина",
+        "title": "Солнце Монако"
+    },
+    {
+        "position": 85,
+        "artist": "JONY",
+        "title": "Воздушный Сарафан"
+    },
+    {
+        "position": 86,
+        "artist": "Heronwater",
+        "title": "Дай мне посмотреть"
+    },
+    {
+        "position": 87,
+        "artist": "ANNA ASTI",
+        "title": "Милый, прощай"
+    },
+    {
+        "position": 88,
+        "artist": "Adil",
+        "title": "Госпожа"
+    },
+    {
+        "position": 89,
+        "artist": "Miyagi & Andy Panda",
+        "title": "Minor"
+    },
+    {
+        "position": 90,
+        "artist": "ONEIL",
+        "title": "You’re Mine"
+    },
+    {
+        "position": 91,
+        "artist": "Aarne",
+        "title": "ВМЕСТЕ"
+    },
+    {
+        "position": 92,
+        "artist": "Король и Шут",
+        "title": "Ведьма и осёл"
+    },
+    {
+        "position": 93,
+        "artist": "NЮ",
+        "title": "Я тебя обидел"
+    },
+    {
+        "position": 94,
+        "artist": "Три дня дождя",
+        "title": "За край"
+    },
+    {
+        "position": 95,
+        "artist": "Ночные Снайперы",
+        "title": "Разбуди меня"
+    },
+    {
+        "position": 96,
+        "artist": "BRANYA",
+        "title": "Пополам"
+    },
+    {
+        "position": 97,
+        "artist": "Люся Чеботина",
+        "title": "ПЛАКАЛ ГОЛЛИВУД"
+    },
+    {
+        "position": 98,
+        "artist": "Каспийский Груз",
+        "title": "На белом"
+    },
+    {
+        "position": 99,
+        "artist": "Порнофильмы",
+        "title": "Я так соскучился"
+    },
+    {
+        "position": 100,
+        "artist": "Oxxxymiron",
+        "title": "Лига Опасного Интернета"
+    }
+]

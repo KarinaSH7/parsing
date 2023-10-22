@@ -10,10 +10,12 @@ PS: Картинки пишутся как обычный файл открыт�
 import requests
 from PIL import Image
 
+
 def save_random_cat_image():
     response = requests.get('https://cataas.com/cat')
     with open('random_cat.jpg', 'wb') as f:
         f.write(response.content)
+
 
 def save_original_size_image():
     response = requests.get('https://cataas.com/cat')
@@ -26,6 +28,7 @@ def save_pixelated_image():
     image = Image.open(BytesIO(response.content))
     pixelated_image = image.resize((100, 100), resample=Image.BOX)
     pixelated_image.save('pixelated_cat.jpg')
+
 
 save_random_cat_image()
 save_random_cat_image()
